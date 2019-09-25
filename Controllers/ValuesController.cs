@@ -96,7 +96,6 @@ namespace myFirstAPI.Controllers
                 return Ok(_people);
             }
             return BadRequest();
-
         }
     }
 }
